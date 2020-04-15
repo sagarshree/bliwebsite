@@ -1,0 +1,229 @@
+#nav-bar{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+.navbar-brand img{
+    height: 80px;
+    padding-left: 30px;
+}
+
+.navbar-brand1 img{
+    height: 40px;
+    padding-left: 30px;
+}
+
+.navbar-nav li{
+    padding:0 10px;
+}
+
+.navbar-nav li a{
+    float: right;
+    text-align: left;
+}
+
+#nav-bar ul li a:hover{
+color: #007bff!important;
+}
+
+.navbar{
+    background: #fff;
+}
+
+.navbar-toggler{
+    border: none!important;
+}
+.nav-link{
+    color: #555!important;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+#slider{
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.carousel-caption{
+    top: 50%;
+    transform: translateY(-50%);
+    bottom: initial!important;
+}
+
+#details-bli{
+    padding-top: 50px;
+    color: #555;
+}
+#details-bli .btn{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    font-weight: 600;
+}
+
+.about-content{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: justify;
+    font-weight: 600;
+}
+
+h2{
+    text-align: center;
+}
+
+.success-rate{
+    text-align: justify;
+}
+
+.success-rate p{
+    margin-bottom: 6px;
+    padding-top: 20px;
+    font-weight: 600;
+}
+
+.progress-bar{
+    border-radius: 16px;
+}
+
+.progress{
+    border-radius: 16px!important;
+    margin-bottom: 10px;
+}
+
+#whybli{
+    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(./images/whybli.jpg);
+    background-size: cover;
+    background-position: center;
+    color: #efefef!important;
+    background-attachment: fixed;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+
+.why-content{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: justify;
+    font-weight: 600;
+}
+
+#brand-logo {
+    max-width: 100%;
+    height: auto;
+}
+
+.col{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#details-menu{
+    background-color:#181818;
+    padding-top: 60px;
+    padding-bottom: 20px;
+    text-align: justify;
+    font-weight: 600;
+}
+
+.last{
+    color: #fff;
+    font-size: 17px;
+    font-weight: 700;
+    letter-spacing: 0;
+    text-transform: none;
+    border-bottom-width: 2px;
+    border-bottom-color: #3DB166;
+    border-bottom-style: solid;
+    padding-bottom: 15px;
+    margin-bottom: 26px;
+    font-family: Poppins,sans-serif;
+    text-align: left;
+    
+}
+
+#fucking-container{
+    padding-left: 0px;
+
+}
+
+
+.bottom-text{
+    color: #fff;
+}
+
+.col a :hover{
+    color: #555!important;
+}
+
+#footer{
+    background-color:#202020;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    text-align: justify;
+    font-weight: 600;
+}
+
+#bli {
+    color: #3DB166;
+}
+
+#courses{
+    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(./images/courses.jpg);
+    background-size: cover;
+    background-position: center;
+    color: #efefef!important;
+    background-attachment: fixed;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.course-content{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+body{
+    font-size: null;
+}
+
+.image-thumbnail{
+    max-width: min-content;
+}
+
+.margin{
+    
+    margin: 52px;
+    border-style: solid;
+    border-color:#3DB166;
+}
+
+.img{
+    margin: 10px;
+    border: 5px;
+    border-color:#3DB166;
+}
+
+#aboutus{
+    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(./images/about.png);
+    background-size: cover;
+    background-position: center;
+    color: #efefef!important;
+    background-attachment: fixed;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.about-content{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 20px;
+    font-weight: 500;
+}
+#gallery-img{
+    width: fit-content;
+}
+
